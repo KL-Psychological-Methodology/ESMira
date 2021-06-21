@@ -1,0 +1,8 @@
+[submodule "ESMira-web"]
+	path = ESMira-web
+	url = https://github.com/KL-Psychological-Methodology/ESMira-web
+	branch = main
+[submodule "ESMira-apps"]
+	path = ESMira-apps
+	url = https://github.com/KL-Psychological-Methodology/ESMira-apps
+	branch = main
