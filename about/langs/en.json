@@ -17,18 +17,18 @@
 					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0V0z\" fill=\"none\"></path><path d=\"M11 2v20c-5.07-.5-9-4.79-9-10s3.93-9.5 9-10zm2.03 0v8.99H22c-.47-4.74-4.24-8.52-8.97-8.99zm0 11.01V22c4.74-.47 8.5-4.25 8.97-8.99h-8.97z\"></path></svg>",
 					"title": "Personal Feedback",
 					"screenshots": "screenshots:statistics",
-					"desc": "Researcher can set up complex charts that will automatically calculated out of data. These statistics can be either personalised to the participants or calculated out of all participants data."
+					"desc": "Researcher can set up complex charts that will be automatically calculated out of participants' data. These statistics can be either personalised to the participants or calculated out of all participants' data."
 				},
 				{
 					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>",
 					"title": "Completely anonymous",
-					"desc": "Each participants gets a random participant id under which all data is collected. ESMira does not collect any personal data at any time."
+					"desc": "Each participant gets a random participant id under which all data is collected. ESMira does not collect any personal data at any time."
 				},
 				{
 					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z\"></path></svg>",
 					"title": "Anonymous Chat",
 					"screenshots": "screenshots:messages",
-					"desc": "Participants can communicate with the researcher from within the app and stay completely anonymous while doing so. Additionally, researchers can sent important messages to all participants of a study."
+					"desc": "Participants can communicate with the researcher from within the app and stay completely anonymous while doing so. Additionally, researchers can send important messages to all participants of a study."
 				}
 			]
 		},
@@ -44,7 +44,7 @@
 				{
 					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12.5 6.9c1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-.53.12-1.03.3-1.48.54l1.47 1.47c.41-.17.91-.27 1.51-.27zM5.33 4.06L4.06 5.33 7.5 8.77c0 2.08 1.56 3.21 3.91 3.91l3.51 3.51c-.34.48-1.05.91-2.42.91-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c.96-.18 1.82-.55 2.45-1.12l2.22 2.22 1.27-1.27L5.33 4.06z\"></path></svg>",
 					"title": "Completely free",
-					"desc": "ESMira is developed as a project at <a class=\"nowrap\" href=\"https://www.kl.ac.at/\">Karl Landsteiner University</a> to be used for our own studies. Please mention ESMira when you use it for your own publications."
+					"desc": "ESMira is developed as a project at <a class=\"nowrap\" href=\"https://www.kl.ac.at/\">Karl Landsteiner University</a> to be used for our own studies and published for the community to use completely free of charge. But please mention ESMira when you use it for your own publications (<a href=\"https://github.com/KL-Psychological-Methodology/ESMira/wiki/Conditions-for-using-ESMira\">More information</a>)."
 				},
 				{
 					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z\"></path></svg>",
@@ -66,14 +66,14 @@
 				},
 				{
 					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M2 20h20v-4H2v4zm2-3h2v2H4v-2zM2 4v4h20V4H2zm4 3H4V5h2v2zm-4 7h20v-4H2v4zm2-3h2v2H4v-2z\"></path></svg>",
-					"title": "Full controll over data",
+					"title": "Full control over data",
 					"desc": "All data is sent to and stored in one place only - your own server. The researcher is the only one who has complete control and access to all data."
 				},
 				{
 					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M19 1H9c-1.1 0-2 .9-2 2v3h2V4h10v16H9v-2H7v3c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2zM7.01 13.47l-2.55-2.55-1.27 1.27L7 16l7.19-7.19-1.27-1.27z\"></path></svg>",
 					"title": "Web, Android and iOS",
 					"screenshots": "screenshots:devices",
-					"desc": "Participants can use the web interface to fill out questionnaires or use the respective native apps on iOS or Android. The apps in the store are supported and maintained by us. The control over data always stays with you."
+					"desc": "Participants can use the web interface to fill out questionnaires or use the respective native apps on iOS or Android. The <a href=\"https://github.com/KL-Psychological-Methodology/ESMira-apps\">open source apps</a> in the store are supported and maintained by us. The control over data always stays with you."
 				},
 				{
 					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" height=\"48\" width=\"48\"><path d=\"M 23.997797,0.59238165 C 10.745088,0.59238165 7.5e-6,11.337462 7.5e-6,24.593122 c 0,10.60364 6.876085,19.59839 16.4130265,22.77344 1.200773,0.21954 1.638356,-0.52156 1.638356,-1.15804 0,-0.56871 -0.02062,-2.07889 -0.03242,-4.08116 -6.675709,1.44977 -8.0842275,-3.21778 -8.0842275,-3.21778 -1.091746,-2.77136 -2.665274,-3.5095 -2.665274,-3.5095 -2.179073,-1.48955 0.165021,-1.46008 0.165021,-1.46008 2.408911,0.1709 3.6759865,2.47374 3.6759865,2.47374 2.140765,3.66715 5.617851,2.60782 6.985113,1.9949 0.218055,-1.55142 0.836858,-2.60928 1.523436,-3.20894 -5.329079,-0.60554 -10.9321955,-2.66527 -10.9321955,-11.86187 0,-2.6196 0.935572,-4.76184 2.4707935,-6.43998 -0.247531,-0.60701 -1.07112,-3.04687 0.234251,-6.35157 0,0 2.015532,-0.6453204 6.600572,2.46048 1.913871,-0.53188 3.967709,-0.79855 6.008287,-0.80739 2.037632,0.009 4.09147,0.27551 6.008288,0.80739 4.582092,-3.1058004 6.593204,-2.46048 6.593204,-2.46048 1.309801,3.3047 0.486203,5.74456 0.238681,6.35157 1.538168,1.67814 2.467848,3.82038 2.467848,6.43998 0,9.22017 -5.61196,11.24897 -10.958717,11.84272 0.861905,0.74109 1.629516,2.2056 1.629516,4.44507 0,3.20747 -0.02947,5.79613 -0.02947,6.5829 0,0.64237 0.43169,1.38936 1.650143,1.15509 9.529574,-3.18094 16.399767,-12.1698 16.399767,-22.77049 0,-13.25566 -10.746555,-24.00074035 -24.002211,-24.00074035\"></path></svg>",
