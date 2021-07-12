@@ -1,5 +1,5 @@
 # ESMira
-ESMira is a tool for running longitudinal studies (ESM, AA, EMA, ...) with data collection and communication with participants being completely anonymous. Studies can be created over an online interface und participants can either use iOS, Android or a web browser.
+ESMira is a tool for running longitudinal studies (ESM, AA, EMA, ...) with completely anonymized communication with participants and data collection. Studies can be created over an online interface und participants can either use iOS, Android or a web browser.
 
 
 ## What are its most compelling features?
@@ -35,7 +35,8 @@ ESMira is developed as a project at [Karl Landsteiner University](https://www.kl
 
 
 ## I want to know more
-Have a look at our [wiki](https://github.com/KL-Psychological-Methodology/ESMira/wiki). If that does not help you, you are always welcome to open a thread in [the discussions](https://github.com/KL-Psychological-Methodology/ESMira/discussions).
+If you want more information and screenshots, head over to <https://esmira.kl.ac.at/?about>.
+You can also have a look at our [wiki](https://github.com/KL-Psychological-Methodology/ESMira/wiki). If you want to get in touch with us, you are always welcome to open a thread in [the discussions](https://github.com/KL-Psychological-Methodology/ESMira/discussions).
 
 
 ## How can I use it?
@@ -51,7 +52,7 @@ Great! Please have a look [in here](https://github.com/KL-Psychological-Methodol
 
 
 ## Where is the source code?
-ESMira is split into two sub modules:
+ESMira is split into two sub-modules:
 * The server called [ESMira-web](https://github.com/KL-Psychological-Methodology/ESMira-web)
 * Its smartphone apps called [ESMira-apps](https://github.com/KL-Psychological-Methodology/ESMira-apps)
 
