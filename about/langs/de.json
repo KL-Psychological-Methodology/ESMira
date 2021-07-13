@@ -89,65 +89,160 @@
 			"id": "statistics",
 			"title": "Persönliches Feedback",
 			"images": [
-				"screenshots/android_statistics_public-de.png"
+				[
+					{
+						"src": "screenshots/android_statistics_public-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_statistics_public-de.png",
+						"desc": "iOS"
+					}
+				]
 			]
 		},
 		{
 			"id": "messages",
 			"title": "Anonymer Chat",
 			"images": [
-				"screenshots/web_messages_new-de.png",
-				"screenshots/web_messages_chat-de.png",
-				"screenshots/android_messages-de.png"
+				[{"src": "screenshots/web_messages_new-de.png"}],
+				[{"src": "screenshots/web_messages_chat-de.png"}],
+				[
+					{
+						"src": "screenshots/android_messages-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_messages-de.png",
+						"desc": "iOS"
+					}
+				]
 			]
 		},
 		{
 			"id": "5min",
 			"title": "In 5 Minuten eingerichtet",
 			"images": [
-				"screenshots/web_init-de.png"
-			]
-		},
-		{
-			"id": "devices",
-			"title": "Web, Android und iOS",
-			"images": [
-				"screenshots/web_fillout_questionnaire-de.png",
-				"screenshots/web_fillout_questionnaire_nojs-de.png",
-				"screenshots/android_welcome-de.png",
-				"screenshots/android_main-de.png",
-				"screenshots/android_consent-de.png",
-				"screenshots/android_accessKey-de.png"
+				[{"src": "screenshots/web_init-de.png"}]
 			]
 		},
 		{
 			"id": "admin",
 			"title": "Flexible Admin-Oberfläche",
 			"images": [
-				"screenshots/web_admin-de.png",
-				"screenshots/web_adminStudy-de.png",
-				"screenshots/web_questionnaires_preview-de.png",
-				"screenshots/web_questionnaires_item-de.png"
+				[{"src": "screenshots/web_admin-de.png"}],
+				[{"src": "screenshots/web_adminStudy-de.png"}],
+				[{"src": "screenshots/web_questionnaires_preview-de.png"}],
+				[{"src": "screenshots/web_questionnaires_item-de.png"}]
 			]
 		},
 		{
 			"id": "studySummary",
 			"title": "Live-Statistiken",
 			"images": [
-				"screenshots/web_liveStatistics_participant-de.png",
-				"screenshots/web_liveStatistics_graphs-de.png"
+				[{"src": "screenshots/web_liveStatistics_participant-de.png"}],
+				[{"src": "screenshots/web_liveStatistics_graphs-de.png"}]
 			]
 		},
 		{
 			"id": "dataViewer",
 			"title": "Online Daten-Manager",
 			"images": [
-				"screenshots/web_dataList-de.png",
-				"screenshots/web_dataViewer-de.png",
-				"screenshots/web_dataViewer_filter-de.png"
+				[{"src": "screenshots/web_dataList-de.png"}],
+				[{"src": "screenshots/web_dataViewer-de.png"}],
+				[{"src": "screenshots/web_dataViewer_filter-de.png"}]
+			]
+		},
+		{
+			"id": "devices",
+			"title": "Web, Android und iOS",
+			"images": [
+				[{"src": "screenshots/web_fillout_questionnaire-de.png"}],
+				
+				[
+					{
+						"src": "screenshots/android_welcome-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_welcome-de.png",
+						"desc": "iOS"
+					}
+				],
+				[
+					{
+						"src": "screenshots/android_main-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_main-de.png",
+						"desc": "iOS"
+					}
+				],
+				[
+					{
+						"src": "screenshots/android_consent-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_consent-de.png",
+						"desc": "iOS"
+					}
+				],
+				[
+					{
+						"src": "screenshots/android_accessKey-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_accessKey-de.png",
+						"desc": "iOS"
+					}
+				],
+				
+				[
+					{
+						"src": "screenshots/android_qr-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_qr-de.png",
+						"desc": "iOS"
+					}
+				],
+				[
+					{
+						"src": "screenshots/android_questionnaire-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_questionnaire-de.png",
+						"desc": "iOS"
+					}
+				],
+				[
+					{
+						"src": "screenshots/android_messages-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_messages-de.png",
+						"desc": "iOS"
+					}
+				],
+				[
+					{
+						"src": "screenshots/android_statistics_public-de.png",
+						"desc": "Android"
+					},
+					{
+						"src": "screenshots/iphone8_statistics_public-de.png",
+						"desc": "iOS"
+					}
+				]
 			]
 		}
 	],
-	"repository_link": "https://github.com/JodliDev/ESMira",
+	"repository_link": "https://github.com/KL-Psychological-Methodology/ESMira",
 	"use_for_own_studies": "ESMira für eigene Studien verwenden"
 }
