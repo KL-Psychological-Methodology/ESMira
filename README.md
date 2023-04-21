@@ -1,3 +1,11 @@
+# Heads up!
+## ESMira on Android and iOS is about to change!
+**We are redesigning the UI of the Android and iOS app. The functionality will stay the same but especially the start screen will be quite different.
+We are planning on rolling out the new update at the beginning of May. if you are planning to conduct a new study soon, it might be less confusing for your participants if your start the study after the rollout**
+
+An example of the new starting screen:
+![Screenshot of the new Design.](https://esmira.kl.ac.at/documents/images/screen_esmira_new_design.png)
+
 # ESMira
 ESMira is a tool for running longitudinal studies (ESM, AA, EMA, ...) with completely anonymized communication with participants and data collection. Studies can be created over an online interface und participants can either use iOS, Android or a web browser.
 
