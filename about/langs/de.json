@@ -1,248 +1,84 @@
 {
-	"about_text": "ESMira ist ein Tool zur wissenschaftlichen Durchführung von Langzeitstudien (ESM, AA, EMA, ...) bei dem die Kommunikation mit Teilnehmern und Daten-Sammlung völlig anonymisiert abläuft. Studien können einfach über die Online-Maske erstellt werden und Teilnehmende können entweder iOS, Android oder den Browser verwenden.",
+	"about_text": "ESMira ist ein Tool, das für Experience Sampling Method (ESM, AA, EMA, ...) Designs entwickelt wurde. ESMira bietet einen sehr einfachen Einrichtungsprozess und Benutzerfreundlichkeit und ist gleichzeitig kostenlos, dezentralisiert und Open Source. Studienadministratoren können ESMira auf ihrem eigenen Webspace installieren, ohne viel technisches Wissen zu benötigen, so dass sie unabhängig von Third-party-Services bleiben.",
 	
-	"esmira_own_server_get_started": "Informieren Sie sich auf GitHub wie Sie Ihren eigenen ESMira-Server mit minimalen IT-Kenntnissen einrichten können.",
+	"esmira_own_server_get_started": "Finden Sie auf GitHub heraus, wie Sie Ihren eigenen ESMira-Server mit nur geringen IT-Kenntnissen einrichten können.",
+	
+	"use_for_own_studies": "Nutze ESMira für die eigene Studien",
 	
 	
-	"page_about": [
-		{
-			"title": "Vorteile für Teilnehmende",
-			"elements": [
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M21 1l-8.59 8.59L21 18.18V1zM4.77 4.5L3.5 5.77l6.36 6.36L1 21h17.73l2 2L22 21.73 4.77 4.5z\"></path></svg>",
-					"title": "Offline verfügbar",
-					"desc": "Für ESMira ist keine dauerhafte Internetverbindung erforderlich. Alle Funktionen der Studien sind lokal in der App gespeichert und benötigen keine Internetverbindung. Gespeicherte Daten von Fragebögen werde lokal gesammelt und werden automatisch hochgeladen sobald eine Internetverbdindung verfügbar ist."
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0V0z\" fill=\"none\"></path><path d=\"M11 2v20c-5.07-.5-9-4.79-9-10s3.93-9.5 9-10zm2.03 0v8.99H22c-.47-4.74-4.24-8.52-8.97-8.99zm0 11.01V22c4.74-.47 8.5-4.25 8.97-8.99h-8.97z\"></path></svg>",
-					"title": "Persönliches Feedback",
-					"screenshots": "screenshots:statistics",
-					"desc": "Studienleitende können komplexe Diagramme erstellen, welche automatisch und live aus den Daten berechnet werden. Diagramme können entweder den Verlauf von allen Studienteilnehmenden oder persönliche Statistiken von einzelnen Teilnehmenden abbilden."
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V5l-9-4zm-2 16l-4-4 1.41-1.41L10 14.17l6.59-6.59L18 9l-8 8z\"></path></svg>",
-					"title": "Vollständig anonym",
-					"desc": "ESMira teilt allen Teilnehmenden eine zufällige Versuchspersonennummer zu unter welcher die verschiedenen Datenpunkte verknüpft werden können. Sämtliche Daten sind komplett anonym und die ESMira-App ESMira erhebt zu keinem Zeitpunkt, weder direkt noch indirekt, personenbezogene Daten."
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M20 2H4c-1.1 0-1.99.9-1.99 2L2 22l4-4h14c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm-2 12H6v-2h12v2zm0-3H6V9h12v2zm0-3H6V6h12v2z\"></path></svg>",
-					"title": "Anonymer Chat",
-					"screenshots": "screenshots:messages",
-					"desc": "Teilnehmer können vollständig anonym über die App mit der Forscherin oder dem Forscher der Studie kommunizieren. Desweiteren können wichtige Nachrichten an alle Teilnehmer einer Studie verschickt werden."
-				}
-			]
-		},
-		{
-			"title": "Vorteile für Forscher",
-			"elements": [
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M11 17c0 .55.45 1 1 1s1-.45 1-1-.45-1-1-1-1 .45-1 1zm0-14v4h2V5.08c3.39.49 6 3.39 6 6.92 0 3.87-3.13 7-7 7s-7-3.13-7-7c0-1.68.59-3.22 1.58-4.42L12 13l1.41-1.41-6.8-6.8v.02C4.42 6.45 3 9.05 3 12c0 4.97 4.02 9 9 9 4.97 0 9-4.03 9-9s-4.03-9-9-9h-1zm7 9c0-.55-.45-1-1-1s-1 .45-1 1 .45 1 1 1 1-.45 1-1zM6 12c0 .55.45 1 1 1s1-.45 1-1-.45-1-1-1-1 .45-1 1z\"></path></svg>",
-					"title": "In 5 Minuten eingerichtet",
-					"screenshots": "screenshots:5min",
-					"desc": "Um einen eigenen ESMira-Server einzurichten sind nur minimale IT-Kenntnisse notwendig. Einfach die Dateien auf den Server kopieren, die Hauptseite des Servers öffnen und den Anweisungen folgen. <a href=\"https://github.com/JodliDev/ESMira/wiki/Setting-up-a-server\" target=\"_blank\">Mehr Informationen</a>"
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M12.5 6.9c1.78 0 2.44.85 2.5 2.1h2.21c-.07-1.72-1.12-3.3-3.21-3.81V3h-3v2.16c-.53.12-1.03.3-1.48.54l1.47 1.47c.41-.17.91-.27 1.51-.27zM5.33 4.06L4.06 5.33 7.5 8.77c0 2.08 1.56 3.21 3.91 3.91l3.51 3.51c-.34.48-1.05.91-2.42.91-2.06 0-2.87-.92-2.98-2.1h-2.2c.12 2.19 1.76 3.42 3.68 3.83V21h3v-2.15c.96-.18 1.82-.55 2.45-1.12l2.22 2.22 1.27-1.27L5.33 4.06z\"></path></svg>",
-					"title": "Kostenlos",
-					"desc": "ESMira wird als Projekt an der <a class=\"nowrap\" href=\"https://www.kl.ac.at/\">Karl Landsteiner Privatuniversität</a> für die Verwendung von eigenen Studien enwtickelt und wird von uns komplett kostenlos zur Verfügung gestellt. Bitte erwähnen Sie unser Projekt wenn Sie ESMira in Ihren eigenen Studien verwenden."
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M19 3h-4.18C14.4 1.84 13.3 1 12 1c-1.3 0-2.4.84-2.82 2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-7 0c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zm2 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z\"></path></svg>",
-					"title": "Flexible Admin-Oberfläche",
-					"screenshots": "screenshots:admin",
-					"desc": "Die Administrationsoberfläche erlaubt eine Vielzahl von Einstellungsmöglichkeiten für Fragebögen und Studien."
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4zm2.5 2.1h-15V5h15v14.1zm0-16.1h-15c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h15c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z\"></path></svg>",
-					"title": "Live-Statistiken",
-					"screenshots": "screenshots:studySummary",
-					"desc": "Für jede Studien werden in der Administrationsoberfläche ausführliche Statistiken angezeigt und es können individuelle Diagramme direkt aus den Daten berechnet werden."
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M21 3H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h5v2h8v-2h5c1.1 0 1.99-.9 1.99-2L23 5c0-1.1-.9-2-2-2zm0 14H3V5h18v12zm-2-9H8v2h11V8zm0 4H8v2h11v-2zM7 8H5v2h2V8zm0 4H5v2h2v-2z\"></path></svg>",
-					"title": "Online Daten-Manager",
-					"screenshots": "screenshots:dataViewer",
-					"desc": "Die Daten können jederzeit als CSV-Datei herunter geladen werden. Zusätzlich gibt es auch die Option die Daten direkt auf der Administrationsoberfläche mit dem einem flexiblen Daten-Manager anzeigen und analysieren zu können."
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M2 20h20v-4H2v4zm2-3h2v2H4v-2zM2 4v4h20V4H2zm4 3H4V5h2v2zm-4 7h20v-4H2v4zm2-3h2v2H4v-2z\"></path></svg>",
-					"title": "Volle Kontrolle über Daten",
-					"desc": "Alle Nutzerdaten werden an einem Ort - nämlich auf dem eigenen Server gespeichert. Als Studienleiter haben Sie die volle Kontrolle über die Daten und deren Speicherort."
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M19 1H9c-1.1 0-2 .9-2 2v3h2V4h10v16H9v-2H7v3c0 1.1.9 2 2 2h10c1.1 0 2-.9 2-2V3c0-1.1-.9-2-2-2zM7.01 13.47l-2.55-2.55-1.27 1.27L7 16l7.19-7.19-1.27-1.27z\"></path></svg>",
-					"title": "Web, Android und iOS",
-					"screenshots": "screenshots:devices",
-					"desc": "Teilnehmende können die Web-Oberfläche direkt auf dem Server verwenden oder mit den jeweiligen nativen Apps auf iOS oder Android aus dem Store ihren Studien beitreten. Den Support der Apps übernehmen wir, die volle Kontrolle der Daten bleibt bei Ihnen!"
-				},
-				{
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 48 48\" height=\"48\" width=\"48\"><path d=\"M 23.997797,0.59238165 C 10.745088,0.59238165 7.5e-6,11.337462 7.5e-6,24.593122 c 0,10.60364 6.876085,19.59839 16.4130265,22.77344 1.200773,0.21954 1.638356,-0.52156 1.638356,-1.15804 0,-0.56871 -0.02062,-2.07889 -0.03242,-4.08116 -6.675709,1.44977 -8.0842275,-3.21778 -8.0842275,-3.21778 -1.091746,-2.77136 -2.665274,-3.5095 -2.665274,-3.5095 -2.179073,-1.48955 0.165021,-1.46008 0.165021,-1.46008 2.408911,0.1709 3.6759865,2.47374 3.6759865,2.47374 2.140765,3.66715 5.617851,2.60782 6.985113,1.9949 0.218055,-1.55142 0.836858,-2.60928 1.523436,-3.20894 -5.329079,-0.60554 -10.9321955,-2.66527 -10.9321955,-11.86187 0,-2.6196 0.935572,-4.76184 2.4707935,-6.43998 -0.247531,-0.60701 -1.07112,-3.04687 0.234251,-6.35157 0,0 2.015532,-0.6453204 6.600572,2.46048 1.913871,-0.53188 3.967709,-0.79855 6.008287,-0.80739 2.037632,0.009 4.09147,0.27551 6.008288,0.80739 4.582092,-3.1058004 6.593204,-2.46048 6.593204,-2.46048 1.309801,3.3047 0.486203,5.74456 0.238681,6.35157 1.538168,1.67814 2.467848,3.82038 2.467848,6.43998 0,9.22017 -5.61196,11.24897 -10.958717,11.84272 0.861905,0.74109 1.629516,2.2056 1.629516,4.44507 0,3.20747 -0.02947,5.79613 -0.02947,6.5829 0,0.64237 0.43169,1.38936 1.650143,1.15509 9.529574,-3.18094 16.399767,-12.1698 16.399767,-22.77049 0,-13.25566 -10.746555,-24.00074035 -24.002211,-24.00074035\"></path></svg>",
-					"title": "Open Source",
-					"desc": "ESMira ist zu 100% Open Source.\nMelden Sie Fehler, machen Sie Änderungsvorschläge oder tragen Sie zur Entwicklung von ESMira bei:\n<a href=\"https://github.com/JodliDev/ESMira\" target=\"_blank\">Auf GitHub</a> finden Sie den Quelltext und ausführliche Wiki-Einträge für das Projekt."
-				}
-			]
-		}
-	],
+	"advantages_participants": "Vorteile für Teilnehmer",
+	"more_information": "Mehr Informationen",
+	"wiki": "Wiki",
+	"repository": "GitHub repository",
+	"discussions": "Diskussions-Forum",
+	"translations": "Übersetzungs-Platform",
 	
-	"page_screenshots": [
-		{
-			"id": "statistics",
-			"title": "Persönliches Feedback",
-			"images": [
-				[
-					{
-						"src": "screenshots/android_statistics_public-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_statistics_public-de.png",
-						"desc": "iOS"
-					}
-				]
-			]
-		},
-		{
-			"id": "messages",
-			"title": "Anonymer Chat",
-			"images": [
-				[{"src": "screenshots/web_messages_new-de.png"}],
-				[{"src": "screenshots/web_messages_chat-de.png"}],
-				[
-					{
-						"src": "screenshots/android_messages-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_messages-de.png",
-						"desc": "iOS"
-					}
-				]
-			]
-		},
-		{
-			"id": "5min",
-			"title": "In 5 Minuten eingerichtet",
-			"images": [
-				[{"src": "screenshots/web_init-de.png"}]
-			]
-		},
-		{
-			"id": "admin",
-			"title": "Flexible Admin-Oberfläche",
-			"images": [
-				[{"src": "screenshots/web_admin-de.png"}],
-				[{"src": "screenshots/web_adminStudy-de.png"}],
-				[{"src": "screenshots/web_questionnaires_preview-de.png"}],
-				[{"src": "screenshots/web_questionnaires_item-de.png"}]
-			]
-		},
-		{
-			"id": "studySummary",
-			"title": "Live-Statistiken",
-			"images": [
-				[{"src": "screenshots/web_liveStatistics_participant-de.png"}],
-				[{"src": "screenshots/web_liveStatistics_graphs-de.png"}]
-			]
-		},
-		{
-			"id": "dataViewer",
-			"title": "Online Daten-Manager",
-			"images": [
-				[{"src": "screenshots/web_dataList-de.png"}],
-				[{"src": "screenshots/web_dataViewer-de.png"}],
-				[{"src": "screenshots/web_dataViewer_filter-de.png"}]
-			]
-		},
-		{
-			"id": "devices",
-			"title": "Web, Android und iOS",
-			"images": [
-				[{"src": "screenshots/web_fillout_questionnaire-de.png"}],
-				
-				[
-					{
-						"src": "screenshots/android_welcome-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_welcome-de.png",
-						"desc": "iOS"
-					}
-				],
-				[
-					{
-						"src": "screenshots/android_main-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_main-de.png",
-						"desc": "iOS"
-					}
-				],
-				[
-					{
-						"src": "screenshots/android_consent-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_consent-de.png",
-						"desc": "iOS"
-					}
-				],
-				[
-					{
-						"src": "screenshots/android_accessKey-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_accessKey-de.png",
-						"desc": "iOS"
-					}
-				],
-				
-				[
-					{
-						"src": "screenshots/android_qr-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_qr-de.png",
-						"desc": "iOS"
-					}
-				],
-				[
-					{
-						"src": "screenshots/android_questionnaire-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_questionnaire-de.png",
-						"desc": "iOS"
-					}
-				],
-				[
-					{
-						"src": "screenshots/android_messages-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_messages-de.png",
-						"desc": "iOS"
-					}
-				],
-				[
-					{
-						"src": "screenshots/android_statistics_public-de.png",
-						"desc": "Android"
-					},
-					{
-						"src": "screenshots/iphone8_statistics_public-de.png",
-						"desc": "iOS"
-					}
-				]
-			]
-		}
-	],
-	"repository_link": "https://github.com/KL-Psychological-Methodology/ESMira",
-	"use_for_own_studies": "ESMira für eigene Studien verwenden"
+	"anonymous_title": "Vollständig anonym",
+	"anonymous_desc": "Beim ersten Öffnen der App erhält jeder Teilnehmer eine zufällig generierte Benutzer-ID, die für das Hochladen von Daten oder das Senden von Nachrichten verwendet wird. Teilnehmer müssen keine persönlichen Informationen angeben, um die App zu nutzen.",
+	
+	"offline_title": "Voll funktionsfähig offline",
+	"offline_desc": "ESMira funktioniert auch ohne kontinuierliche Internetverbindung. Alle Funktionen von Studien werden lokal in der App gespeichert, und gespeicherte Daten werden zwischengespeichert und hochgeladen, sobald eine Internetverbindung besteht.",
+	
+	"devices_title": "Web, Android und iOS",
+	"devices_desc": "Teilnehmer können die Web-Oberfläche verwenden, um Fragebögen auszufüllen, oder die entsprechenden nativen Apps für iOS oder Android nutzen. Die im Store verfügbaren <a href='https://github.com/KL-Psychological-Methodology/ESMira-apps'>Open-Source-Apps</a> werden von uns unterstützt und gewartet. Die Kontrolle über die Daten liegt immer bei Ihnen.",
+	
+	"join_title": "Einfache Teilnahme an Studien",
+	"join_desc": "Um an einer Studie teilzunehmen, müssen Teilnehmer nur die mobile App installieren und können dann den den spezifischen QR-Code der Studie (welcher automatisch vom ESMira-Server erstellt wird) mit dem integrierten QR-Code-Scanner scannen.",
+	
+	"feedback_title": "Persönliches Feedback",
+	"feedback_desc": "Forscher können komplexe Diagramme einrichten, die automatisch aus den Daten der Teilnehmer berechnet werden. Diese Statistiken können entweder personalisiert für die Teilnehmer oder aus den Daten aller Teilnehmer berechnet werden.",
+	
+	"chat_title": "Anonymer Chat",
+	"chat_desc": "Teilnehmer können über die App mit dem Forscher kommunizieren und dabei vollständig anonym bleiben. Darüber hinaus können Forscher wichtige Nachrichten an alle Teilnehmer einer Studie senden.",
+	
+	
+	"advantages_researchers": "Vorteile für Forscher",
+	
+	"setup_title": "Einfache Servereinrichtung",
+	"setup_desc": "Für die Einrichtung des eigenen ESMira-Servers sind nur minimale IT-Kenntnisse erforderlich. Es müssen nur die erforderlichen Dateien auf den Server kopiert, die Hauptseite von ESMira geöffnet und dann den Anweisungen gefolgt werden. <a href='https://github.com/JodliDev/ESMira/wiki/Setting-up-a-server' target='_blank'>Weitere Informationen</a>.",
+	
+	"update_title": "Server mit nur einem Klick aktualisieren",
+	"update_desc": "ESMira kann mit nur einem Klick automatisch aktualisiert werden. Es erstellt eine Sicherungskopie, lädt die neueste Version von GitHub herunter und aktualisiert bei Bedarf die Datenstruktur auf die neueste Version.",
+	
+	"free_title": "Völlig kostenlos",
+	"free_desc": "ESMira wurde als Projekt an der <a class='nowrap' href='https://www.kl.ac.at/'>Karl Landsteiner University</a> entwickelt, um in unseren eigenen Studien verwendet zu werden und wird der Community kostenlos zur Verfügung gestellt. Bitte zitieren Sie ESMira, wenn Sie es für Ihre eigenen Publikationen verwenden (<a href='https://github.com/KL-Psychological-Methodology/ESMira/wiki/Conditions-for-using-ESMira'>Weitere Informationen zum Zitieren</a>).",
+	
+	"opensource_title": "Open Source",
+	"opensource_desc": "ESMira ist vollständig Open Source. Melden Sie Fehler, geben Sie Feedback oder nehmen Sie am Entwicklungsprozess teil: Auf GitHub finden Sie den Quellcode und ein umfangreiches Wiki für das Projekt. \n<a href='https://github.com/JodliDev/ESMira' target='_blank'>Auf GitHub</a>",
+	
+	"data_access_title": "Vollständige Kontrolle über Daten",
+	"data_access_desc": "Alle Daten werden an einen einzigen Ort gesendet und dort gespeichert - Ihren eigenen Server. Sie haben die vollständige Kontrolle und den Zugriff auf alle Daten.",
+	
+	"admin_title": "Flexibles Administrationswerkzeug",
+	"admin_desc": "Das leistungsstarke Administrationswerkzeug bietet eine Vielzahl von Optionen, um Ihre Studie genau nach Ihren Anforderungen einzurichten.",
+	
+	"information_page_title": "Informationsseite",
+	"information_page_desc": "Die Web-Oberfläche bietet für jede Studie eine automatisch generierte Informationsseite. Diese Seite enthält leicht verständliche Anweisungen für potenzielle Teilnehmer zur Installation der mobilen App und zur Teilnahme an der Studie, einschließlich eines QR-Codes und Links zur Studie.",
+	
+	"languages_esmira_title": "Mehrere Sprachen",
+	"languages_esmira_desc": "Wir bemühen uns aktiv um Übersetzungen in so viele Sprachen wie möglich. Zu diesem Zweck haben wir eine öffentlich zugängliche <a href='https://translate.jodli.dev'>Übersetzungsplattform</a> eingerichtet, auf der neue Übersetzungen hinzugefügt oder bestehende Übersetzungen verbessert werden können.",
+	
+	"languages_studies_title": "Studien in mehreren Sprachen",
+	"languages_studies_desc": "Studien können mehrere Sprachen haben. Bei der Anmeldung zu einer Studie erkennt die App automatisch die Sprache des Betriebssystems und präsentiert die Studie in derselben Sprache. Falls die benötigte Sprache nicht verfügbar ist, wird sie stattdessen in einer vordefinierten Standardsprache angezeigt.",
+	
+	"access_keys_title": "Mehrere Studien mit Zugangscodes",
+	"access_keys_desc": "Studien können entweder öffentlich auf dem Server verfügbar sein oder mit einem Passwort (\"Zugangscode\") versteckt werden. Eine Studie kann mehrere Zugangscodes haben, und mehrere Studien können denselben Zugangscode verwenden.",
+	
+	"statistics_title": "Live-Studienstatistiken und Diagramme",
+	"statistics_desc": "ESMira bietet mehrere Optionen, um einen schnellen Überblick über den aktuellen Stand einer Studie zu erhalten. Die allgemeine Übersicht zeigt verschiedene Statistiken über die letzten Tage. Spezifische Statistiken zeigen detaillierte Diagramme für die Antworten einzelner Teilnehmer, und für eine detailliertere Analyse können benutzerdefinierte Diagramme einen Überblick über spezifische Fälle geben.",
+	
+	"study_updates_title": "Aktualisierung von Studien in Echtzeit",
+	"study_updates_desc": "Studien können auch nach dem Start noch verändert werden. Im Allgemeinen wirkt sich ein Update auf eine Studie nur auf neue Teilnehmer aus, um Verwirrung oder Interventionseffekte zu vermeiden. Bei Bedarf können Änderungen jedoch auch für bestehende Teilnehmer freigegeben werden.",
+	
+	"reward_title": "Belohnungscode-System",
+	"reward_desc": "ESMira's Belohnungscode-System ist nicht mit der Benutzer-ID verbunden, sodass Teilnehmer alle erforderlichen persönlichen Informationen angeben können, ohne dass diese mit ihren Studiendaten verknüpft werden können. Der Studienadministrator kann dann anonym überprüfen, ob ein Belohnungscode gültig ist, um möglichen Missbrauch zu vermeiden.",
+	
+	"data_viewer_title": "Online-Datenbetrachter",
+	"data_viewer_desc": "Alle Studiendaten können als CSV-Dateien heruntergeladen werden aber ESMira bietet auch einen integrierten Datenbetrachter. Dieser kann große Datensätze verarbeiten und bietet auch eine Reihe nützlicher Filter- und Volltextsuchoptionen, um Studiendaten in Echtzeit zu analysieren.",
+	
+	"user_title": "Benutzer- und Berechtigungsverwaltung",
+	"user_desc": "Der Server bietet ein ausgefeiltes Benutzerverwaltungssystem, um den Zugriff auf verschiedene Studien abzustimmen. Unterschiedliche Benutzer können spezielle Zugriffsrechte auf ausgewählte Studien haben, wie z.B. Projektänderungen vornehmen, Chat-Nachrichten lesen und schreiben oder auf Daten zugreifen.",
+	
+	"json_title": "Studiendesign in einer Datei",
+	"json_desc": "Das gesamte Studiendesign einer Studie werden in einer einzigen JSON-Datei gespeichert, die einfach bearbeitet, exportiert oder kopiert werden kann. Dies ermöglicht es Forschern, das vollständige Studiendesign zusammen mit den Daten zu veröffentlichen."
 }
