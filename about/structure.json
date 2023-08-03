@@ -193,7 +193,8 @@
 				[
 					{ "src": "screenshots/chat2_android.png",	"desc": "Android" },
 					{ "src": "screenshots/chat2_ios.png",		"desc": "iOS" }
-				]
+				],
+				[{ "src": "screenshots/chat2_web.png",		"desc": "Admin" }]
 			]
 		},
 		{
