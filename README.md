@@ -1,13 +1,19 @@
+<p>
+	<img src="https://translate.jodli.dev/widgets/esmira/-/svg-badge.svg" alt="" />
+</p>
 <p align="center">
-	<img src="/about/web_header_normal.svg" alt="ESMira"/>
+	<img src="about/images/web_header_normal.svg" alt="ESMira" width="300"/>
+	<br>
+	<a href="https://esmira.kl.ac.at/?about">[Screenshots]</a>
+	<a href="https://github.com/KL-Psychological-Methodology/ESMira/wiki">[Wiki]</a>
+	<a href="https://github.com/KL-Psychological-Methodology/ESMira/discussions">[Forum]</a>
 </p>
 
-<img src="https://translate.jodli.dev/widgets/esmira/-/svg-badge.svg" alt="Übersetzungsstatus" />
 
 ESMira is a tool developed for research projects using Experience Sampling Method (ESM, AA, EMA, ...) designs. ESMira offers a very simple set-up process and ease of use, while being free, decentralized, and open-source. Study administrators can install ESMira on their own webspace without needing much technical knowledge, allowing them to remain independent from third-party services.
 
 <p align="center">
-	<img src="/about/demo_image.png" height="400" alt=""/>
+	<img src="about/images/demo_image.png" height="400" alt=""/>
 </p>
 
 ## :globe_with_meridians: Translations for ESMira
@@ -50,10 +56,17 @@ The server is where study administrators can set up studies, communicate with pa
 The project is developed at [Karl Landsteiner University](https://www.kl.ac.at/) and was initially financed by the FWF (Fonds zur Förderung der wissenschaftlichen Forschung; Project number: P3100-N38)
 
 ### Concept & design
-* Univ.-Prof. Mag. Dr. Stefan Stieger, PD (E-Mail: stefan.stieger@kl.ac.at)
-* JodliDev / David Lewetz, MSc (E-Mail: david.lewetz@kl.ac.at)
+* Univ.-Prof. Mag. Dr. Stefan Stieger, PD
+* JodliDev / David Lewetz, MSc
 
 ### Responsible for progamming:
-* JodliDev / David Lewetz, MSc (E-Mail: david.lewetz@kl.ac.at)
+* JodliDev / David Lewetz, MSc
 
 You can find the full Legal Notice at <https://esmira.kl.ac.at/?impressum>
+
+## :link: Resources
+- [Website](https://esmira.kl.ac.at/?about)
+- [Wiki](https://github.com/KL-Psychological-Methodology/ESMira/wiki)
+- [Discussion forum](https://github.com/KL-Psychological-Methodology/ESMira/discussions)
+- [Translation platform](https://translate.jodli.dev/)
+- [Help development](https://github.com/KL-Psychological-Methodology/ESMira/wiki/Help-development).
