@@ -138,7 +138,10 @@
 		{
 			"id": "devices",
 			"images": [
-				[{ "src": "screenshots/devices_web_questionnaire.png",	"desc": "Web interface"}],
+				[
+					{ "src": "screenshots/web_home.png",					"desc": "Web starting page"},
+					{ "src": "screenshots/devices_web_questionnaire.png",	"desc": "Web questionnaire"}
+				],
 				
 				[
 					{ "src": "screenshots/devices_welcome_android.png",	"desc": "Android" },
