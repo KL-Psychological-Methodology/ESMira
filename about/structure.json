@@ -104,7 +104,8 @@
 				},
 				{
 					"id": "statistics",
-					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4zm2.5 2.1h-15V5h15v14.1zm0-16.1h-15c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h15c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z\"></path></svg>"
+					"icon": "<svg xmlns=\"http://www.w3.org/2000/svg\" height=\"48\" viewBox=\"0 0 24 24\" width=\"48\"><path d=\"M0 0h24v24H0z\" fill=\"none\"></path><path d=\"M9 17H7v-7h2v7zm4 0h-2V7h2v10zm4 0h-2v-4h2v4zm2.5 2.1h-15V5h15v14.1zm0-16.1h-15c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h15c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2z\"></path></svg>",
+					"screenshots": "screenshots:statistics"
 				},
 				{
 					"id": "study_updates",
@@ -166,27 +167,6 @@
 			]
 		},
 		{
-			"id": "languages_studies",
-			"images": [
-				[{ "src": "screenshots/languages_studies_settings.png" }],
-				[{ "src": "screenshots/languages_studies_editor.png" }]
-			]
-		},
-		{
-			"id": "reward",
-			"images": [
-				[{ "src": "screenshots/reward_settings.png", "desc": "Reward settings" }],
-				[
-					{ "src": "screenshots/reward_check_failed.png", "desc": "Invalid reward code" },
-					{ "src": "screenshots/reward_check_success.png", "desc": "Valid reward code" }
-				],
-				[
-					{ "src": "screenshots/reward_not_eligible_android.png", "desc": "Not eligible for reward" },
-					{ "src": "screenshots/reward_eligible_android.png", "desc": "Eligible for reward" }
-				]
-			]
-		},
-		{
 			"id": "chat",
 			"images": [
 				[{ "src": "screenshots/chat1.png",				"desc": "Android" }],
@@ -223,11 +203,33 @@
 			]
 		},
 		{
+			"id": "languages_studies",
+			"images": [
+				[{ "src": "screenshots/languages_studies_settings.png" }],
+				[{ "src": "screenshots/languages_studies_editor.png" }]
+			]
+		},
+		{
 			"id": "statistics",
 			"images": [
+				[{"src": "screenshots/admin_data_overview.png"}],
 				[{"src": "screenshots/statistics1.png"}],
 				[{"src": "screenshots/statistics2.png"}],
 				[{"src": "screenshots/statistics3.png"}]
+			]
+		},
+		{
+			"id": "reward",
+			"images": [
+				[{ "src": "screenshots/reward_settings.png", "desc": "Reward settings" }],
+				[
+					{ "src": "screenshots/reward_check_failed.png", "desc": "Invalid reward code" },
+					{ "src": "screenshots/reward_check_success.png", "desc": "Valid reward code" }
+				],
+				[
+					{ "src": "screenshots/reward_not_eligible_android.png", "desc": "Not eligible for reward" },
+					{ "src": "screenshots/reward_eligible_android.png", "desc": "Eligible for reward" }
+				]
 			]
 		},
 		{
