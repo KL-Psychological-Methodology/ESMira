@@ -4,6 +4,11 @@
 		{
 			"id": "more_information",
 			"urls": [
+				
+				{
+					"id": "demo",
+					"href": "https://demo-esmira.kl.ac.at/#admin,username:demo,password:demodemodemo/"
+				},
 				{
 					"id": "repository",
 					"href": "https://github.com/KL-Psychological-Methodology/ESMira"
