@@ -33,7 +33,7 @@ You can also have a look at our [wiki](https://github.com/KL-Psychological-Metho
 
 
 ## :hammer_and_pick: How can I use it?
-All you need is a simple webserver that has PHP installed. Just copy the [necessary files](https://github.com/KL-Psychological-Methodology/ESMira-web/releases/download/latest/ESMira-web.zip) onto your server, open the main page of ESMira and follow the instructions. Follow [this guide](https://github.com/KL-Psychological-Methodology/ESMira/wiki/Setting-up-a-server) for more information.
+All you need is a simple webserver that has PHP installed. Just copy the [necessary files](https://github.com/KL-Psychological-Methodology/ESMira-web/releases/latest/download/ESMira-web.zip) onto your server, open the main page of ESMira and follow the instructions. Follow [this guide](https://github.com/KL-Psychological-Methodology/ESMira/wiki/Setting-up-a-server) for more information.
 Please also cite ESMira in your publications. [Read more here](https://github.com/KL-Psychological-Methodology/ESMira/wiki/Conditions-for-using-ESMira) 
 
 
