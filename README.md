@@ -4,6 +4,7 @@
 <p align="center">
 	<img src="about/images/web_header_normal.svg" alt="ESMira" width="300"/>
 	<br>
+	<a href="https://demo-esmira.kl.ac.at/">[Demo]</a>
 	<a href="https://esmira.kl.ac.at/?about">[Screenshots]</a>
 	<a href="https://github.com/KL-Psychological-Methodology/ESMira/wiki">[Wiki]</a>
 	<a href="https://github.com/KL-Psychological-Methodology/ESMira/discussions">[Forum]</a>
@@ -69,4 +70,5 @@ You can find the full Legal Notice at <https://esmira.kl.ac.at/?impressum>
 - [Wiki](https://github.com/KL-Psychological-Methodology/ESMira/wiki)
 - [Discussion forum](https://github.com/KL-Psychological-Methodology/ESMira/discussions)
 - [Translation platform](https://translate.jodli.dev/)
-- [Help development](https://github.com/KL-Psychological-Methodology/ESMira/wiki/Help-development).
+- [Demo Server](https://demo-esmira.kl.ac.at/)
+- [Help development](https://github.com/KL-Psychological-Methodology/ESMira/wiki/Help-development)
