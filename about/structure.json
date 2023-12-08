@@ -198,9 +198,10 @@
 				[{"src": "screenshots/admin_study.png"}],
 				[{"src": "screenshots/admin_serverStatistics.png"}],
 				[{"src": "screenshots/admin_serverStatistics2.png"}],
-				[{"src": "screenshots/admin_trigger.png"}],
+				[{"src": "screenshots/admin_filter_trigger.png"}],
 				[{"src": "screenshots/admin_trigger_specific.png"}],
-				[{"src": "screenshots/admin_sumscores.png"}]
+				[{"src": "screenshots/admin_sumscores.png"}],
+				[{"src": "screenshots/admin_calendar.png"}]
 			]
 		},
 		{
@@ -230,10 +231,7 @@
 			"id": "reward",
 			"images": [
 				[{ "src": "screenshots/reward_settings.png", "desc": "Reward settings" }],
-				[
-					{ "src": "screenshots/reward_check_failed.png", "desc": "Invalid reward code" },
-					{ "src": "screenshots/reward_check_success.png", "desc": "Valid reward code" }
-				],
+				[{ "src": "screenshots/reward_no_check.png", "desc": "Reward list" }],
 				[
 					{ "src": "screenshots/reward_not_eligible_android.png", "desc": "Not eligible for reward" },
 					{ "src": "screenshots/reward_eligible_android.png", "desc": "Eligible for reward" }
