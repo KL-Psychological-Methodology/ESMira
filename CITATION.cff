@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Lewetz"
+  given-names: "David"
+  orcid: "https://orcid.org/0000-0002-1120-2498"
+title: "ESMira"
+#version: 1.0.0
+#date-released: 2024-01-09
+url: "https://github.com/KL-Psychological-Methodology/ESMira"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Lewetz"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0002-1120-2498"
+  - family-names: "Stieger"
+    given-names: "Stefan"
+    orcid: "https://orcid.org/0000-0002-7784-6624"
+  doi: "10.3758/s13428-023-02194-2"
+  journal: "Behavior Research Methods"
+  title: "ESMira: A decentralized open-source application for collecting experience sampling data"
+  year: 2023
