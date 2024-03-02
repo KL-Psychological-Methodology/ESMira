@@ -1,85 +1,57 @@
 {
-	"about_text": "ESMira is a tool developed for research projects using Experience Sampling Method (ESM, AA, EMA, ...) designs. ESMira offers a very simple set-up process and ease of use, while being free, decentralized, and open-source. Study administrators can install ESMira on their own webspace without needing much technical knowledge, allowing them to remain independent from third-party services.",
-	
-	"esmira_own_server_get_started": "Find out on GitHub how to set up your own ESMira server with only limited IT knowledge.",
-	
-	"use_for_own_studies": "Use ESMira for own studies",
-	
-	
-	"advantages_participants": "Advantages for participants",
-	"more_information": "More information",
-	"wiki": "Wiki",
-	"repository": "GitHub repository",
-	"discussions": "Discussion Forum",
-	"demo": "Demo server",
-	"translations": "Translation platform",
-	
-	"anonymous_title": "Completely anonymous",
-	"anonymous_desc": "When first opening the app, each participant is assigned their own randomly generated user id, used for uploading data or sending messages. Participants do not have to provide any personal information to use the app.",
-	
-	"offline_title": "Fully functional offline",
-	"offline_desc": "ESMira works without a steady internet connection. All functionality of studies are saved locally in the app and saved data are cached and will be uploaded as soon as there is an internet connection.",
-	
-	"devices_title": "Web, Android and iOS",
-	"devices_desc": "Participants can use the web interface to fill out questionnaires or use the respective native apps on iOS or Android. The <a href=\"https://github.com/KL-Psychological-Methodology/ESMira-apps\">open source apps</a> in the store are supported and maintained by us. The control over data always stays with you.",
-	
-	"join_title": "Join studies easily",
-	"join_desc": "To join a study, participants only need to install the mobile app and use the built-in QR code scanner to scan the study’s specific QR code (which is automatically created by the ESMira server).",
-	
-	"feedback_title": "Personal feedback",
-	"feedback_desc": "Researcher can set up complex charts that will be automatically calculated out of participants' data. These statistics can be either personalised to the participants or calculated out of all participants' data.",
-	
-	"chat_title": "Anonymous Chat",
-	"chat_desc": "Participants can communicate with the researcher from within the app and stay completely anonymous while doing so. Additionally, researchers can send important messages to all participants of a study.",
-	
-	
-	"advantages_researchers": "Advantages for researchers",
-	
-	"setup_title": "Easy Server Setup",
-	"setup_desc": "To set up you own ESMira server only minimal IT knowledge is required. Just copy the necessary files onto your server, open the main page of ESMira and follow the instructions. <a href=\"https://github.com/JodliDev/ESMira/wiki/Setting-up-a-server\" target=\"_blank\">More information</a>.",
-	
-	"update_title": "Update the Server With Just One Click",
-	"update_desc": "ESMira can update automatically with just one click of a button. It will then back itself up, download its newest version from GitHub, and, if needed, update the data structure to the newest version.",
-	
-	"free_title": "Completely free",
-	"free_desc": "ESMira is developed as a project at <a class=\"nowrap\" href=\"https://www.kl.ac.at/\">Karl Landsteiner University</a> to be used for our own studies and published for the community to use completely free of charge. But please cite ESMira if you use it for your own publications (<a href=\"https://github.com/KL-Psychological-Methodology/ESMira/wiki/Conditions-for-using-ESMira\">More information on citation</a>).",
-	
-	"opensource_title": "Open source",
-	"opensource_desc": "ESMira is completely Open Source. Report bugs, give feedback or take part in the development: \n<a href=\"https://github.com/JodliDev/ESMira\" target=\"_blank\">On GitHub</a> you can find the source code and an extensive wiki for the project.",
-	
-	"data_access_title": "Full control over data",
-	"data_access_desc": "All data is sent to and stored in one place only - your own server. The researcher is the only one who has complete control and access to all data.",
-	
-	"admin_title": "Flexible admin tool",
-	"admin_desc": "The powerful admin tool allows a wide range of options to set up your study exactly as you need it.",
-	
-	"information_page_title": "Information page",
-	"information_page_desc": "The web interface provides an automatically generated information webpage on the server for each study. This webpage includes easy to follow instructions for potential participants on how to install the mobile app and participate in the study, including a QR code or links to the study.",
-	
-	"languages_esmira_title": "Multiple languages",
-	"languages_esmira_desc": "We are actively seeking translations into as many languages as possible. For this purpose, we have set up an openly available <a href='https://translate.jodli.dev'>translation platform</a>, where others can add new translations or improve existing translations.",
-	
-	"languages_studies_title": "Studies with multiple languages",
-	"languages_studies_desc": "Studies can have multiple languages. During enrollment in a study, the app automatically detects what language a participant’s operating system uses and presents the study in the same language. If the needed language is not available, it will be presented instead in a predefined default language.",
-	
-	"access_keys_title": "Multiple studies with access keys",
-	"access_keys_desc": "Studies can either be publicly available on the server or hidden with a password (\"access key\"). A study can have multiple access keys, and multiple studies can share the same access key.",
-	
-	"statistics_title": "Live study statistics and charts",
-	"statistics_desc": "ESMira offers several options to obtain a quick overview of the current state of a study. The general overview shows several statistics over the last days. Specific statistics show detailed charts for individual participants’ responses, and for more in-depth analysis, custom charts can give an overview of specific cases.",
-	
-	"study_updates_title": "Live updating of studies",
-	"study_updates_desc": "Studies can be updated even after a study has started. In general, an update to a study will only affect new participants to prevent confusion or intervention effects. But, if necessary, changes can also be released to existing participants.",
-	
-	"reward_title": "Reward Code System",
-	"reward_desc": "ESMira's reward code system is not connected to the user id which enables participants to disclose any personal information needed without it being connected to their study data but enables the study administrator to check anonymously if a reward code is valid, to avoid potential abuse.",
-	
-	"data_viewer_title": "Online data viewer",
-	"data_viewer_desc": "ESMira offers a built-in data viewer, although all study data can also be downloaded as CSV files. The viewer can handle large data sets and also provides a range of useful filters and full-text search options to analyze study data in real time.",
-	
-	"user_title": "User and permission management",
-	"user_desc": "The server provides a sophisticated user management system to fine-tune access to different studies. Different users can have selected access permissions to selected studies, such as to change projects, read and write chat messages, or access data.",
-	
-	"json_title": "Study design in one file",
-	"json_desc": "The compolete study design of a study is saved into a single JSON file that can be easily edited, exported, or copied. This enables researchers to publish the complete study design together with the data."
+    "about_text": "ESMira is a tool developed for research projects using Experience Sampling Method (ESM, AA, EMA, …) designs. ESMira offers a very simple set-up process and ease of use, while being free, decentralized, and open-source. Study administrators can install ESMira on their own webspace without needing much technical knowledge, allowing them to remain independent from third-party services.",
+    "esmira_own_server_get_started": "Find out on GitHub how to set up your own ESMira server with only limited IT knowledge.",
+    "use_for_own_studies": "Use ESMira for own studies",
+    "advantages_participants": "Advantages for participants",
+    "more_information": "More information",
+    "wiki": "Wiki",
+    "repository": "GitHub repository",
+    "discussions": "Discussion Forum",
+    "demo": "Demo server",
+    "translations": "Translation platform",
+    "anonymous_title": "Completely anonymous",
+    "anonymous_desc": "When first opening the app, each participant is assigned their own randomly generated user id, used for uploading data or sending messages. Participants do not have to provide any personal information to use the app.",
+    "offline_title": "Fully functional offline",
+    "offline_desc": "ESMira works without a steady internet connection. All functionality of studies are saved locally in the app and saved data are cached and will be uploaded as soon as there is an internet connection.",
+    "devices_title": "Web, Android and iOS",
+    "devices_desc": "Participants can use the web interface to fill out questionnaires or use the respective native apps on iOS or Android. The <a href=\"https://github.com/KL-Psychological-Methodology/ESMira-apps\">open source apps</a> in the store are supported and maintained by us. The control over data always stays with you.",
+    "join_title": "Join studies easily",
+    "join_desc": "To join a study, participants only need to install the mobile app and use the built-in QR code scanner to scan the study’s specific QR code (which is automatically created by the ESMira server).",
+    "feedback_title": "Personal feedback",
+    "feedback_desc": "Researcher can set up complex charts that will be automatically calculated out of participants' data. These statistics can be either personalised to the participants or calculated out of all participants' data.",
+    "chat_title": "Anonymous Chat",
+    "chat_desc": "Participants can communicate with the researcher from within the app and stay completely anonymous while doing so. Additionally, researchers can send important messages to all participants of a study.",
+    "advantages_researchers": "Advantages for researchers",
+    "setup_title": "Easy Server Setup",
+    "setup_desc": "To set up you own ESMira server only minimal IT knowledge is required. Just copy the necessary files onto your server, open the main page of ESMira and follow the instructions. <a href=\"https://github.com/JodliDev/ESMira/wiki/Setting-up-a-server\" target=\"_blank\">More information</a>.",
+    "update_title": "Update the Server With Just One Click",
+    "update_desc": "ESMira can update automatically with just one click of a button. It will then back itself up, download its newest version from GitHub, and, if needed, update the data structure to the newest version.",
+    "free_title": "Completely free",
+    "free_desc": "ESMira is developed as a project at <a class=\"nowrap\" href=\"https://www.kl.ac.at/\">Karl Landsteiner University</a> to be used for our own studies and published for the community to use completely free of charge. But please cite ESMira if you use it for your own publications (<a href=\"https://github.com/KL-Psychological-Methodology/ESMira/wiki/Conditions-for-using-ESMira\">More information on citation</a>).",
+    "opensource_title": "Open source",
+    "opensource_desc": "ESMira is completely Open Source. Report bugs, give feedback or take part in the development: \n<a href=\"https://github.com/JodliDev/ESMira\" target=\"_blank\">On GitHub</a> you can find the source code and an extensive wiki for the project.",
+    "data_access_title": "Full control over data",
+    "data_access_desc": "All data is sent to and stored in one place only - your own server. The researcher is the only one who has complete control and access to all data.",
+    "admin_title": "Flexible admin tool",
+    "admin_desc": "The powerful admin tool allows a wide range of options to set up your study exactly as you need it.",
+    "information_page_title": "Information page",
+    "information_page_desc": "The web interface provides an automatically generated information webpage on the server for each study. This webpage includes easy to follow instructions for potential participants on how to install the mobile app and participate in the study, including a QR code or links to the study.",
+    "languages_esmira_title": "Multiple languages",
+    "languages_esmira_desc": "We are actively seeking translations into as many languages as possible. For this purpose, we have set up an openly available <a href='https://translate.jodli.dev'>translation platform</a>, where others can add new translations or improve existing translations.",
+    "languages_studies_title": "Studies with multiple languages",
+    "languages_studies_desc": "Studies can have multiple languages. During enrollment in a study, the app automatically detects what language a participant’s operating system uses and presents the study in the same language. If the needed language is not available, it will be presented instead in a predefined default language.",
+    "access_keys_title": "Multiple studies with access keys",
+    "access_keys_desc": "Studies can either be publicly available on the server or hidden with a password (\"access key\"). A study can have multiple access keys, and multiple studies can share the same access key.",
+    "statistics_title": "Live study statistics and charts",
+    "statistics_desc": "ESMira offers several options to obtain a quick overview of the current state of a study. The general overview shows several statistics over the last days. Specific statistics show detailed charts for individual participants’ responses, and for more in-depth analysis, custom charts can give an overview of specific cases.",
+    "study_updates_title": "Live updating of studies",
+    "study_updates_desc": "Studies can be updated even after a study has started. In general, an update to a study will only affect new participants to prevent confusion or intervention effects. But, if necessary, changes can also be released to existing participants.",
+    "reward_title": "Reward Code System",
+    "reward_desc": "ESMira's reward code system is not connected to the user id which enables participants to disclose any personal information needed without it being connected to their study data but enables the study administrator to check anonymously if a reward code is valid, to avoid potential abuse.",
+    "data_viewer_title": "Online data viewer",
+    "data_viewer_desc": "ESMira offers a built-in data viewer, although all study data can also be downloaded as CSV files. The viewer can handle large data sets and also provides a range of useful filters and full-text search options to analyze study data in real time.",
+    "user_title": "User and permission management",
+    "user_desc": "The server provides a sophisticated user management system to fine-tune access to different studies. Different users can have selected access permissions to selected studies, such as to change projects, read and write chat messages, or access data.",
+    "json_title": "Study design in one file",
+    "json_desc": "The compolete study design of a study is saved into a single JSON file that can be easily edited, exported, or copied. This enables researchers to publish the complete study design together with the data."
 }
