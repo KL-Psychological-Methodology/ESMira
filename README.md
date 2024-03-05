@@ -60,8 +60,13 @@ The project is developed at [Karl Landsteiner University](https://www.kl.ac.at/)
 * Univ.-Prof. Mag. Dr. Stefan Stieger, PD
 * JodliDev / David Lewetz, MSc
 
-### Responsible for progamming:
+### Responsible for progamming
 * JodliDev / David Lewetz, MSc
+* SelinaDev / Selina Volsa, MSc
+
+### Translations
+
+* Ukrainian: Anton Kurapov
 
 You can find the full Legal Notice at <https://esmira.kl.ac.at/?impressum>
 
