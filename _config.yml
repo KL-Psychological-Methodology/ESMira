@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   This is the blog for ESMira, the free and open-source research tool
   for research using the Experience Sampling Method (ESM, AA, EMA, ...). 
   Here we post updates like information on new or upcoming features, studies using ESMira, etc.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/ESMira" # the subpath of your site, e.g. /blog
+url: "https://kl-psychological-methodology.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  KL-Psychological-Methodology
 
 
