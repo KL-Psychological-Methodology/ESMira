@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scripting in ESMira"
-date:   2024-07-09 10:00:00 +0200
+date:   2024-07-09 9:00:00 +0200
 categories: feature
 author: Selina
 ---
