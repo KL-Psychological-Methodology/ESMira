@@ -9,7 +9,7 @@
     "data_viewer_desc": "ESMira ofrece un visor de datos integrado, aunque todos los datos del estudio también se pueden descargar como archivos CSV. El visor puede manejar grandes conjuntos de datos y también proporciona una variedad de filtros útiles y opciones de búsqueda de texto completo para analizar los datos del estudio en tiempo real.",
     "user_title": "Gestión de usuarios y permisos",
     "json_title": "Diseño de estudio en un solo archivo",
-    "about_text": "ESMira es una herramienta desarrollada para proyectos de investigación que utilizan diseños de Muestreo de Experiencia (ESM, AA, EMA, …). ESMira ofrece un proceso de configuración muy simple y fácil de usar, siendo además gratuito, descentralizado y de código abierto. Los administradores del estudio pueden instalar ESMira en su propio espacio web sin necesitar mucho conocimiento técnico, lo que les permite ser independientes de servicios de terceros.",
+    "about_text": "ESMira es una herramienta desarrollada para proyectos de investigación que utilizan diseños de Muestreo de Experiencia (ESM, AA, EMA, …). ESMira ofrece un proceso de configuración muy simple y fácil de usar, siendo además gratuito, descentralizado y de código abierto. Los administradores del estudio pueden instalar ESMira en su propio \nespacio web sin necesitar mucho conocimiento técnico, lo que les permite ser independientes de servicios de terceros.",
     "esmira_own_server_get_started": "Descubre en GitHub cómo configurar tu propio servidor ESMira con solo conocimientos limitados de TI.",
     "use_for_own_studies": "Usa ESMira para tus propios estudios",
     "advantages_participants": "Ventajas para los participantes",
