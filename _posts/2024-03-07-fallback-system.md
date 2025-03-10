@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fallbacy System"
+title: "Fallback System"
 date: 2025-03-10 9:00:00 +0200
 categories: feature
 author: Selina
