@@ -1,1 +1,21 @@
-{}
+{
+    "esmira_own_server_get_started": "Dowiedz się na GitHubie, jak skonfigurować własny serwer ESMira, mając jedynie podstawową wiedzę informatyczną.",
+    "more_information": "Więcej informacji",
+    "wiki": "Wiki",
+    "discussions": "Forum dyskusyjne",
+    "demo": "Serwer demonstracyjny",
+    "translations": "Platforma tłumaczeniowa",
+    "devices_title": "Web, Android i iOS",
+    "join_title": "Łatwe dołączanie do badań",
+    "join_desc": "Aby dołączyć do badania, uczestnicy muszą jedynie zainstalować aplikację mobilną i skorzystać z wbudowanego skanera kodów QR, aby zeskanować kod QR danego badania (który jest automatycznie tworzony przez serwer ESMira).",
+    "feedback_title": "Informacja zwrotna dla uczestnika",
+    "about_text": "ESMira to narzędzie opracowane do projektów badawczych z wykorzystaniem metody doświadczeń codziennych (Experience Sampling Method – ESM, AA, EMA…). Oferuje bardzo prosty proces konfiguracji i łatwość użycia, a jednocześnie jest bezpłatne, zdecentralizowane i otwartoźródłowe. Administratorzy badań mogą zainstalować ESMira na własnej przestrzeni serwerowej bez potrzeby posiadania rozległej wiedzy technicznej, co pozwala im zachować niezależność od usług podmiotów trzecich.",
+    "repository": "Repozytorium GitHub",
+    "devices_desc": "Uczestnicy mogą korzystać z interfejsu webowego do wypełniania kwestionariuszy lub z odpowiednich natywnych aplikacji na iOS albo Androida. <a href=\"https://github.com/KL-Psychological-Methodology/ESMira-apps\">Aplikacje open source</a> dostępne w sklepie są wspierane i utrzymywane przez nas. Kontrola nad danymi zawsze pozostaje po Twojej stronie.",
+    "use_for_own_studies": "Używaj ESMira do własnych badań",
+    "advantages_participants": "Korzyści dla uczestników",
+    "offline_desc": "ESMira działa bez stałego połączenia z internetem. Wszystkie funkcje badań są zapisywane lokalnie w aplikacji, a zgromadzone dane są buforowane i zostaną przesłane, gdy tylko pojawi się dostęp do internetu..",
+    "anonymous_title": "Całkowicie anonimowe",
+    "anonymous_desc": "Przy pierwszym uruchomieniu aplikacji każdy uczestnik otrzymuje własny, losowo wygenerowany identyfikator użytkownika, wykorzystywany do przesyłania danych lub wysyłania wiadomości. Uczestnicy nie muszą podawać żadnych danych osobowych, aby korzystać z aplikacji.",
+    "offline_title": "W pełni funkcjonalna w trybie offline"
+}
