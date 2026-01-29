@@ -25,7 +25,7 @@ Lewetz, D., & Stieger, S. (2024). ESMira: A decentralized open-source applicatio
 
 | Study name in ESMira | Language | What type of scripting? | Link to study files | Comment |
 |:--------------|:---------:|:---------------------------|:------------------|:------------------|
-| Merlin Adventure (access key ‘merlin‘) | English | Shows the whole functionality based on an adventure game |  | You can assess this project via our ESMira instance directly. Install ESMira app -> open ESMira -> no QR code -> which server -> manual input -> type ‘esmira.kl.ac.at’ -> access code ‘merlin’ -> choose “Merlin Adventure” | 
-| Merlin Scripting Examples (access key ‘merlin‘) | English | Gives some examples of what can be done with scripting in questionnaires. |  | As above but choose on the last screen ‘Merlin scripting examples’| 
+| Merlin Adventure (access key ‘merlin‘) | English | Shows the whole functionality based on an adventure game | This folder | You can also access this project via our ESMira instance directly. Install ESMira app -> open ESMira -> no QR code -> which server -> manual input -> type ‘esmira.kl.ac.at’ -> access code ‘merlin’ -> choose “Merlin Adventure” | 
+| Merlin Scripting Examples (access key ‘merlin‘) | English | Gives some examples of what can be done with scripting in questionnaires. | This folder | As above but choose on the last screen ‘Merlin scripting examples’| 
 | Conclave: the pope’s election | English | Virtual items (simple calculations) | https://osf.io/ar3ys/ | Stieger et al., 2025 https://dx.doi.org/10.1080/17439760.2025.2569082 | 
 | Impact of social media (TikTok) [Auswirkungen von Social Media (TikTok)] | German | Virtual items (complex calculations), Retest must use the same condition as the first questionnaire | https://osf.io/ts42g/ | Siebenhandl & Stieger, submitted | 
