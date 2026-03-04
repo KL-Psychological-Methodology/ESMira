@@ -27,5 +27,9 @@
     "update_desc": "ESMira’yı sadece bir butona tıklayarak otomatik olarak güncelleyebilirsiniz. Uygulama önce yedeğini alır, GitHub’dan en son sürümü indirir ve gerekirse veri yapısını günceller.",
     "free_title": "Tamamen ücretsiz",
     "json_title": "Çalışma tasarımı tek bir dosyada",
-    "json_desc": "Bir çalışmanın tüm tasarımı, kolayca düzenlenebilen, dışa aktarılabilen veya kopyalanabilen tek bir JSON dosyasında saklanır. Böylece araştırmacılar, verilerle birlikte çalışmanın tam tasarımını yayımlayabilir."
+    "json_desc": "Bir çalışmanın tüm tasarımı, kolayca düzenlenebilen, dışa aktarılabilen veya kopyalanabilen tek bir JSON dosyasında saklanır. Böylece araştırmacılar, verilerle birlikte çalışmanın tam tasarımını yayımlayabilir.",
+    "wiki": "Wiki",
+    "free_desc": "ESMira, kendi çalışmalarımızda kullanılmak üzere <a class=\"nowrap\" href=\"https://www.kl.ac.at/\">Karl Landsteiner University</a> bünyesinde bir proje olarak geliştirilmiş ve topluluğun tamamen ücretsiz kullanımı için yayımlanmıştır. Ancak ESMira’yı kendi yayınlarınızda kullanırsanız lütfen atıf yapınız (<a href=\"https://github.com/KL-Psychological-Methodology/ESMira/wiki/Conditions-for-using-ESMira\">Atıf hakkında daha fazla bilgi</a>).",
+    "opensource_title": "açık kaynak",
+    "opensource_desc": "ESMira tamamen Açık Kaynaklıdır. Hataları bildirebilir, geri bildirimde bulunabilir veya geliştirme sürecine katkıda bulunabilirsiniz.\n<a href=\"https://github.com/JodliDev/ESMira\" target=\"_blank\">GitHub’da</a> projenin kaynak kodunu ve kapsamlı bir wiki sayfasını bulabilirsiniz."
 }
