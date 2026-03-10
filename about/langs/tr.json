@@ -50,5 +50,8 @@
     "data_viewer_title": "Verileri çevrimiçi görüntüleme",
     "data_viewer_desc": "ESMira, yerleşik bir veri görüntüleyici sunar; ancak tüm çalışma verileri CSV dosyaları olarak da indirilebilir. Görüntüleyici, büyük veri setlerini işleyebilir ve çalışma verilerini gerçek zamanlı olarak analiz etmek için çeşitli faydalı filtreler ve tam metin arama seçenekleri sunar.",
     "user_title": "Kullanıcı ve izin yönetimi",
-    "user_desc": "Sunucu, farklı çalışmalara erişimi hassas şekilde yönetmek için gelişmiş bir kullanıcı yönetim sistemi sunar. Farklı kullanıcılar, seçilen çalışmalara belirli erişim izinlerine sahip olabilir; örneğin projeleri değiştirme, sohbet mesajlarını okuma ve yazma veya verilere erişim gibi."
+    "user_desc": "Sunucu, farklı çalışmalara erişimi hassas şekilde yönetmek için gelişmiş bir kullanıcı yönetim sistemi sunar. Farklı kullanıcılar, seçilen çalışmalara belirli erişim izinlerine sahip olabilir; örneğin projeleri değiştirme, sohbet mesajlarını okuma ve yazma veya verilere erişim gibi.",
+    "data_access_title": "veri üzeerinde tam kontrol",
+    "data_access_desc": "Tüm veriler yalnızca kendi sunucunuza gönderilir ve orada saklanır. Verilere tam erişim ve kontrol yalnızca araştırmacıya aittir.",
+    "admin_title": "Esnek yönetim aracı"
 }
