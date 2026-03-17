@@ -1,7 +1,7 @@
 {
-    "about_text": "ESMira, Deneyim Örnekleme Yöntemi (Experience Sampling Method – ESM, AA, EMA vb.) tasarımlarını kullanan araştırma projeleri için geliştirilmiş bir araçtır.\nESMira, son derece basit bir kurulum süreci ve kullanım kolaylığı sunarken; aynı zamanda ücretsiz ve açık kaynaklıdır. Araştırma yürütücüleri, fazla teknik bilgiye ihtiyaç duymadan ESMira’yı kendi web alanlarına kurabilir ve böylece üçüncü taraf hizmet sağlayıcılara bağımlı kalmadan çalışmalarını yürütebilirler.",
+    "about_text": "ESMira, Deneyim Örnekleme Yöntemi (Experience Sampling Method – ESM, AA, EMA vb.) tasarımlarını kullanan araştırma projeleri için geliştirilmiş bir araçtır. ESMira, son derece basit bir kurulum süreci ve kullanım kolaylığı sunarken; aynı zamanda ücretsiz ve açık kaynaklıdır. Araştırma yürütücüleri, fazla teknik bilgiye ihtiyaç duymadan ESMira’yı kendi web alanlarına kurabilir ve böylece üçüncü taraf hizmet sağlayıcılara bağımlı kalmadan çalışmalarını yürütebilirler.",
     "esmira_own_server_get_started": "GitHub üzerinden, sınırlı teknik bilgiyle kendi ESMira sunucunuzu nasıl kurabileceğinizi öğrenin.",
-    "use_for_own_studies": "Kendi çalışmalarınız için ESMira'yı kullanın.",
+    "use_for_own_studies": "Kendi çalışmalarınız için ESMira'yı kullanın",
     "advantages_participants": "Katılımcılar için avantajlar",
     "more_information": "Daha fazla bilgi",
     "repository": "GitHub deposu",
