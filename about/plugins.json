@@ -1,1 +1,12 @@
-[]
+[
+	{
+		"name": "ESMiraSeal",
+		"pluginId": "JodliDev_ESMiraSeal",
+		"version": "1.0.2",
+		"description": "This plugin connects your ESMira server to a SciDataSeal server and saves your participant data directly to the blockchain. The original participant data is sent unaltered to the SciDataSeal server, which encrypts and stores it on the blockchain proving that the data has not been altered.",
+		"author": "JodliDev",
+		"website": "https://github.com/JodliDev/ESMiraSeal/",
+		"metadataUrl": "https://github.com/JodliDev/ESMiraSeal/releases/latest/download/metadata.json",
+		"downloadUrl": "https://github.com/JodliDev/ESMiraSeal/releases/latest/download/ESMiraSeal.zip"
+	}
+]
