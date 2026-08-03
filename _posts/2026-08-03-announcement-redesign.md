@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Announcement Redesign"
-date: 2026-07-27 12:00:00 +0100
+date: 2026-08-03 08:00:00 +0100
 categories: announcement
 author: Selina
 ---
