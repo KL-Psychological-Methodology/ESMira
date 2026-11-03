@@ -4,7 +4,7 @@ Lewetz, D., & Stieger, S. (2024). ESMira: A decentralized open-source applicatio
 
 ## Tutorials of ESMira
 
-To be added.
+Stieger et al. (2026, in revision). How to design an experience sampling method (ESM) study with ESMira: A cookbook.
 
 ## Open files (data, material, study files):
 
